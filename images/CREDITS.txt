@@ -1,0 +1,157 @@
+Fernway Journeys demo: photo credits
+
+Each file in this folder is a crop of the source photo listed below, re-encoded as WebP.
+Wikimedia Commons photos keep their original licence (attribution and share-alike where stated); Unsplash photos are used under the Unsplash License.
+
+courtyard-dinner-group-*.webp
+  Unsplash
+  Author: Gabriella Clare Marino
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/O7ZMSQz6ink
+
+dolomites-tre-cime-*.webp
+  Wikimedia Commons (File:Croda dei Toni and Tre Cime di Lavaredo from Monte Specie, Val Pusteria, Trentino-Alto Adige, Italy, 2025 October.jpg)
+  Author: Ximonic (Simo Räsänen)
+  Licence: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Croda_dei_Toni_and_Tre_Cime_di_Lavaredo_from_Monte_Specie,_Val_Pusteria,_Trentino-Alto_Adige,_Italy,_2025_October.jpg
+
+group-hiking-forest-*.webp
+  Unsplash
+  Author: Waldemar Brandt
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/6P3euYrH48c
+
+group-walking-autumn-trail-*.webp
+  Unsplash
+  Author: Lukas Allspach
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/uTEUQ2b5iI4
+
+iceland-skogafoss-*.webp
+  Wikimedia Commons (File:Skógafoss Waterfall, Iceland, 20240720 1318 2975.jpg)
+  Author: Jakub Hałun
+  Licence: CC BY 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_Waterfall,_Iceland,_20240720_1318_2975.jpg
+
+japan-nachi-pagoda-waterfall-*.webp
+  Unsplash
+  Author: Pen_Ash
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/iLUTwsTjg8I
+
+jordan-petra-treasury-*.webp
+  Wikimedia Commons (File:Petra , Al-Khazneh 2.jpg)
+  Author: Faraheed
+  Licence: CC BY-SA 3.0
+  Source: https://commons.wikimedia.org/wiki/File:Petra_,_Al-Khazneh_2.jpg
+
+kumano-hongu-taisha-shrine-*.webp
+  Unsplash
+  Author: Michael Bai
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/7A2K5XGt_3Q
+
+kumano-kodo-forest-trail-*.webp
+  Unsplash
+  Author: Susann Schuster
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/mkj_i6fSXY4
+
+kumano-kodo-stone-steps-*.webp
+  Unsplash
+  Author: Susann Schuster
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/EPH_IlA0Yx0
+
+kyoto-fushimi-inari-torii-*.webp
+  Wikimedia Commons (File:20181110 Fushimi Inari Torii 12.jpg)
+  Author: Balon Greyjoy
+  Licence: CC0
+  Source: https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_Torii_12.jpg
+
+machu-picchu-huayna-picchu-*.webp
+  Wikimedia Commons (File:Machu Picchu, Perú, 2015-07-30, DD 41.JPG)
+  Author: Diego Delso
+  Licence: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_41.JPG
+
+machu-picchu-terraces-*.webp
+  Wikimedia Commons (File:Machu Picchu, Perú, 2015-07-30, DD 47.JPG)
+  Author: Diego Delso
+  Licence: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG
+
+morocco-berber-guide-camels-*.webp
+  Unsplash
+  Author: Tatiana Zanon
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/VP2mjtJqWvY
+
+morocco-high-atlas-village-*.webp
+  Wikimedia Commons (File:Imlil and its valley and way to Jbel Toubkal 32.jpg)
+  Author: Erokhin
+  Licence: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Imlil_and_its_valley_and_way_to_Jbel_Toubkal_32.jpg
+
+morocco-sahara-camel-caravan-*.webp
+  Unsplash
+  Author: Tienko Dima
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/Lz8x6EC4pY0
+
+norway-lofoten-reine-*.webp
+  Wikimedia Commons (File:Houses of Reine by Gravdalsbukta, Moskenes, Nordland, Norway, 2022 June.jpg)
+  Author: Ximonic (Simo Räsänen)
+  Licence: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Houses_of_Reine_by_Gravdalsbukta,_Moskenes,_Nordland,_Norway,_2022_June.jpg
+
+patagonia-torres-del-paine-*.webp
+  Wikimedia Commons (File:Towers of Paine - Torres del Paine National Park 13.jpg)
+  Author: Thomas Fuhrmann
+  Licence: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Towers_of_Paine_-_Torres_del_Paine_National_Park_13.jpg
+
+peru-urubamba-river-valley-*.webp
+  Wikimedia Commons (File:Valle del Alto Urubamba, Cuzco, Perú, 2015-07-30, DD 37.JPG)
+  Author: Diego Delso
+  Licence: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Valle_del_Alto_Urubamba,_Cuzco,_Per%C3%BA,_2015-07-30,_DD_37.JPG
+
+shared-table-under-trees-*.webp
+  Unsplash
+  Author: Lizgrin F
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/iEY-qu5lLFc
+
+small-group-hikers-lake-*.webp
+  Unsplash
+  Author: Pedro Sanz
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/Zmpcm0MLoH0
+
+tailor-made-map-planning-*.webp
+  Unsplash
+  Author: Glenn Carstens Peters
+  Licence: Unsplash License
+  Source: https://unsplash.com/photos/ZWD3Dx6aUJg
+
+tanzania-serengeti-plains-*.webp
+  Wikimedia Commons (File:Zebra in the Serengeti Wildebeest Migration.jpg)
+  Author: David Dennis from Pozuelo de Alarcón, Madrid, Spain
+  Licence: CC BY-SA 2.0
+  Source: https://commons.wikimedia.org/wiki/File:Zebra_in_the_Serengeti_Wildebeest_Migration.jpg
+
+tuscany-val-dorcia-road-*.webp
+  Wikimedia Commons (File:Leading Road (52716048000).jpg)
+  Author: kuhnmi
+  Licence: CC BY 2.0
+  Source: https://commons.wikimedia.org/wiki/File:Leading_Road_(52716048000).jpg
+
+vietnam-ha-long-bay-junk-*.webp
+  Wikimedia Commons (File:Halong bay vietnam.JPG)
+  Author: Arianos
+  Licence: Public domain
+  Source: https://commons.wikimedia.org/wiki/File:Halong_bay_vietnam.JPG
+
+og-fernway-1200x630.webp
+  Crop of small-group-hikers-lake (see above).

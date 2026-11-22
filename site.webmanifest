@@ -1,0 +1,9 @@
+{
+  "name": "Fernway Journeys",
+  "short_name": "Fernway",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3EFE7",
+  "theme_color": "#F3EFE7",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

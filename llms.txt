@@ -1,0 +1,30 @@
+# Fernway Journeys
+
+> Fernway Journeys is a small-group tour operator. It runs fixed-date guided trips capped at 12 travellers and designs tailor-made trips worldwide. Trips are led by local leaders, rated on a 1–5 activity scale and priced in US dollars per person. Prices start at about $2,490 for 8 days.
+
+Key facts:
+- Group size: 12 travellers maximum (8 on safari), average 9. Solo travellers can share a room at no extra cost or pay a single supplement.
+- Activity scale: 1 Leisurely, 2 Easy, 3 Moderate, 4 Challenging, 5 Demanding.
+- Booking: $500 deposit per person, balance due 60 days before departure. Free date change up to 60 days before departure.
+- Departures marked "Guaranteed" run regardless of numbers. Others need 4 travellers and are confirmed 60 days out.
+- Every itinerary lists an estimated footprint in kg CO2e per traveller per day, excluding international flights.
+- Tailor-made trips typically start from $350 per person per day, excluding international flights.
+- Contact: hello@fernwayjourneys.com. Fernway Journeys is a fictional brand; website concept by Codelynx Digital.
+
+## Pages
+- [Small-Group Tours & Tailor-Made Trips | Fernway Journeys](https://www.fernwayjourneys.com/): Home: what Fernway is, the 2027 small-group collection, how trips are run, tailor-made planning steps and top questions.
+- [Small-Group Tours 2027: All Trips & Prices | Fernway](https://www.fernwayjourneys.com/trips/): All 2027 small-group trips with duration, group size, activity level and price, plus the 1–5 activity scale explained.
+- [Kumano Kodo Small-Group Walking Tour, 11 Days | Fernway](https://www.fernwayjourneys.com/trips/japan-kumano-kodo/): Japan: Kyoto & the Kumano Kodo, 11 days, level 3, max 12, from $5,290. Day-by-day itinerary, inclusions, 2027 dates and FAQ.
+- [Inca Trail & Sacred Valley Group Trek, 10 Days | Fernway](https://www.fernwayjourneys.com/trips/peru-inca-trail/): Peru: Sacred Valley & the Inca Trail, 10 days, level 4, max 12, from $3,890. Day-by-day itinerary, permits, altitude advice, 2027 dates and FAQ.
+- [Morocco Atlas to Sahara Small-Group Tour, 9 Days | Fernway](https://www.fernwayjourneys.com/trips/morocco-atlas-sahara/): Morocco: Atlas to Sahara, 9 days, level 2, max 12, from $2,690. Day-by-day itinerary from Marrakech to Fes, desert camp details, 2027 dates and FAQ.
+- [Tailor-Made Trips & Private Tours Worldwide | Fernway](https://www.fernwayjourneys.com/tailor-made/): Tailor-made and private trips: the 3-step planning process, sample itineraries with guide prices, specialists, private departures and cost per day.
+- [About Fernway: Small Groups, Local Leaders | Fernway](https://www.fernwayjourneys.com/about/): About Fernway: the story, local leaders, how the per-day carbon footprint is measured, and the things we will not do.
+- [Small-Group Tour FAQ: Booking, Fitness & Money | Fernway](https://www.fernwayjourneys.com/faq/): Frequently asked questions about booking, payments, money protection, fitness, solo travel, inclusions, food, insurance and tipping on Fernway trips.
+- [Contact a Fernway Trip Planner | Fernway Journeys](https://www.fernwayjourneys.com/contact/): Contact Fernway: enquiry form, email, video calls with a specialist, response times and local partner offices.
+- [The Fernway Journal: Small-Group Travel Guides | Fernway](https://www.fernwayjourneys.com/journal/): The journal hub: planning and fitness guides for small-group and tailor-made travel.
+- [What Is a Small Group Tour, and Is It Worth It? | Fernway](https://www.fernwayjourneys.com/journal/what-is-a-small-group-tour/): Guide: what a small group tour is, typical group sizes, inclusions, cost per day compared with independent and private travel, downsides and a checklist for choosing an operator.
+- [How Fit Do I Need to Be? Tour Activity Levels | Fernway](https://www.fernwayjourneys.com/journal/choosing-your-activity-level/): Guide: Fernway’s 1–5 activity scale in hours and metres climbed, a self-test for choosing a level, altitude advice and a 12-week training plan.
+- [Tailor-Made Trip vs Small Group Tour: Which? | Fernway](https://www.fernwayjourneys.com/journal/tailor-made-vs-group-tour/): Guide: tailor-made trips vs small group tours compared on price per day, dates, pace and company, with a worked Japan cost example and the private-departure middle way.
+- [Privacy Notice | Fernway Journeys](https://www.fernwayjourneys.com/privacy/): Privacy notice: what personal data Fernway collects, why, who it is shared with, how long it is kept and your rights.
+- [Booking Terms & Conditions | Fernway Journeys](https://www.fernwayjourneys.com/terms/): Booking terms: deposit and balance, prices, changes by you or by us, minimum numbers, traveller responsibilities, liability, complaints and protection of payments.
+- [Refund & Cancellation Policy | Fernway Journeys](https://www.fernwayjourneys.com/refund-policy/): Refund and cancellation policy: charges by notice period, free changes, what happens if Fernway cancels, non-refundable items and refund timing.
